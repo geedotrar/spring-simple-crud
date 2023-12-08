@@ -5,7 +5,7 @@
 ﻿# 2.FindOne
  ![findOne](https://github.com/geedotrar/spring-simple-crud/assets/104245694/7c366c1b-b0ce-4d26-a40d-c44bb5e4feaf)
 ﻿# 3.FindOne(not found)
- ![findOne](https://github.com/geedotrar/spring-simple-crud/assets/104245694/7c366c1b-b0ce-4d26-a40d-c44bb5e4feaf)
+ ![findOne not found](https://github.com/geedotrar/spring-simple-crud/assets/104245694/9f294a44-eff5-4929-a421-b44b6d1234ff)
 ﻿# 4.Create
  ![create](https://github.com/geedotrar/spring-simple-crud/assets/104245694/5273318b-965e-4c16-92f9-95bd5f42c4c9)
 ﻿# 5.update
